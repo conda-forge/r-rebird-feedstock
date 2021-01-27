@@ -5,11 +5,9 @@ Home: http://github.com/ropensci/rebird
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rebird-feedstock/blob/master/LICENSE.txt)
 
 Summary: A programmatic client for the eBird database, including functions for searching for bird observations by geographic location (latitude, longitude), eBird hotspots, location identifiers, by notable sightings, by region, and by taxonomic name.
-
-
 
 Current build status
 ====================
